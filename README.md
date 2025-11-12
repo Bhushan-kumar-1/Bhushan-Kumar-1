@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Bhushan Kumar
 **MERN Developer||Aspiring Software Engineer||CSE'26**
 
-Email Me 👉 ✉️ **bhushanslmp803202@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **bhushanslmp803202@gmail.com** For Collaboration/Project . 😊😊
 
 -    **Passionate about full-stack development and solving real-world problems.**
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
